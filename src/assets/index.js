@@ -16,10 +16,10 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import python from "./tech/python.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import tensorflow from "./tech/tensorflow.png";
+import flask from "./tech/flask.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -48,10 +48,10 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  tensorflow,
   tailwind,
-  typescript,
-  threejs,
+  flask,
+  python,
   meta,
   shopify,
   starbucks,
