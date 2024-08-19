@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    python,
+    flask,
+    tensorflow
   } from "../assets";
   
   export const navLinks = [
@@ -73,16 +76,16 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Python",
+      icon: python,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Tensorflow",
+      icon: tensorflow,
     },
     {
       name: "Tailwind CSS",
@@ -97,8 +100,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "Flask",
+      icon: flask,
     },
     {
       name: "git",
