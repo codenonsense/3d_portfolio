@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "Mern Developer",
+      title: "AI/ML Developer",
       icon: mobile,
     },
     {
