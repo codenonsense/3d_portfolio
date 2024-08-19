@@ -3,12 +3,10 @@ import {
     backend,
     creator,
     web,
-    javascript,
-    typescript,
+    javascript,=
     html,
     css,
-    reactjs,
-    redux,
+    reactjs,=
     tailwind,
     nodejs,
     mongodb,
@@ -22,7 +20,6 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
     python,
     flask,
     tensorflow
