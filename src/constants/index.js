@@ -3,10 +3,10 @@ import {
     backend,
     creator,
     web,
-    javascript,=
+    javascript,
     html,
     css,
-    reactjs,=
+    reactjs,
     tailwind,
     nodejs,
     mongodb,
